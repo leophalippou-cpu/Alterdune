@@ -21,6 +21,9 @@ Points à respecter :
 - `data/items.csv` : inventaire équilibré.
 - `data/monsters.csv` : monstres répartis en catégories NORMAL, MINIBOSS et BOSS.
 - `assets/` : sprites PNG et police pour la version graphique.
+- `alterdune.exe` et les fichiers `.dll` : version compilée pour Windows 64 bits.
+
+Les fichiers `.dll` proviennent de MSYS2 (environnement mingw64). Ils comprennent SFML 3, FreeType et les bibliothèques d'exécution de MinGW. Ils restent sous leurs licences d'origine.
 
 ## Équilibrage des apparitions
 
