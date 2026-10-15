@@ -1,0 +1,14 @@
+# Fichiers de compilation
+*.o
+*.obj
+*.exe
+
+# SFML (a telecharger a part, voir README.txt)
+include/
+lib/
+
+# Editeurs / systeme
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+nom;type;valeur;quantite
+Potion;HEAL;20;6
+Snack;HEAL;12;6
+Bandage;HEAL;15;4
+SweetWater;HEAL;30;3
+SuperPotion;HEAL;50;2
+MegaPotion;HEAL;80;1
+RoyalSnack;HEAL;100;1
+SmokePotion;WEAKEN;50;3
+PowerPotion;BOOST;2;3
+MercyPotion;MERCY;50;2
+DeathPotion;KILL;0;10
+FullMercyPotion;MERCY_FULL;100;10
