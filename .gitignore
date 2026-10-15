@@ -1,7 +1,6 @@
-# Fichiers de compilation
+# Fichiers de compilation intermédiaires
 *.o
 *.obj
-*.exe
 
 # SFML (a telecharger a part, voir README.txt)
 include/
